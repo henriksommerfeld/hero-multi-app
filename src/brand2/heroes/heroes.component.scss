@@ -52,6 +52,7 @@ button.add {
   @include button($blue);
   padding: $default-spacing/2 $default-spacing;
   color: white;  
+  font-size: 1.05em;
 }
 
 button.delete {
